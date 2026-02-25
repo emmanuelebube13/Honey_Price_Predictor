@@ -1,4 +1,4 @@
-# Tech Check 4: Data Transformation, Model Validation, and Regularization
+Data Transformation, Model Validation, and Regularization
 
 This document outlines the theoretical foundations and the practical R implementation for data preparation and predictive modeling using One-Hot Encoding, K-Fold Cross-Validation, and Lasso Regression.
 
